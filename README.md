@@ -1,1 +1,1 @@
-# AICareerCoach
+Career Coach with implemented artificial intelligence that can compose a Cover Letter for you, polish your Resume and give some advises regarding your future career considering any given vacancy, highlighting where is a lack of skills or knowledge.
